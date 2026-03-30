@@ -1,3 +1,4 @@
+<p align="center"><img src="assets/banner.png" alt="Banner" width="100%"></p>
 # ROCm 5.x → 6.x Migration Guide
 
 > **The guide AMD should have written.**
