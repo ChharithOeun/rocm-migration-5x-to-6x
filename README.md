@@ -776,7 +776,7 @@ Found a version combination not in the matrix? Hit an error not in the troublesh
 
 If this guide saved you hours of debugging, consider:
 
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-chharcop-yellow)](https://buymeacoffee.com/chharcop)
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-chharcop-yellow)](https://buymeacoffee.com/chharith)
 
 ---
 
